@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d805fd-76a3-4572-a484-fa7dc8e30a50" name="Changes" comment="갤러리 02번 추가" />
+    <list default="true" id="30d805fd-76a3-4572-a484-fa7dc8e30a50" name="Changes" comment="멤버 02번 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="gallery" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,7 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "member01"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,12 +66,29 @@
       <option name="project" value="LOCAL" />
       <updated>1698643548012</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="멤버 02번 추가">
+      <option name="closed" value="true" />
+      <created>1698643773410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698643773410</updated>
+    </task>
+    <task id="LOCAL-00004" summary="멤버 02번 추가">
+      <option name="closed" value="true" />
+      <created>1698643836090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698643836090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="갤러리 01번 추가" />
     <MESSAGE value="갤러리 02번 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="갤러리 02번 추가" />
+    <MESSAGE value="멤버 02번 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="멤버 02번 추가" />
   </component>
 </project>
